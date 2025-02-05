@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/user/Desktop/CODE/C#/jeu2d/MonJeu2D/Content/Fonts/AweberBlack.spritefont</SourceFile>
+  <SourceTime>2025-02-05T21:05:43.8841772+01:00</SourceTime>
+  <DestFile>c:/Users/user/Desktop/CODE/C#/jeu2d/MonJeu2D/Content/bin/DesktopGL/AweberBlack.xnb</DestFile>
+  <DestTime>2025-02-05T21:21:41.3950314+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

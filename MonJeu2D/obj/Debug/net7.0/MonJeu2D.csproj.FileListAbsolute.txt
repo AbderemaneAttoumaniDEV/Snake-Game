@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\CODE\C#\jeu2d\MonJeu2D\obj\Debug\net7.0\MonJeu2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CODE\C#\jeu2d\MonJeu2D\obj\Debug\net7.0\MonJeu2D.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CODE\C#\jeu2d\MonJeu2D\obj\Debug\net7.0\MonJeu2D.AssemblyInfo.cs
+C:\Users\user\Desktop\CODE\C#\jeu2d\MonJeu2D\obj\Debug\net7.0\MonJeu2D.csproj.CoreCompileInputs.cache
